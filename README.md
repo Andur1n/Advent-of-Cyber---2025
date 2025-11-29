@@ -1,2 +1,2 @@
 # Advent-of-Cyber---2025
-All Challenges from "Tryhackme" for Advent of Cyber 2025. Including my writeups on a day by day and coding.
+This repository contains my write-ups for the TryHackMe Advent of Cyber 2025 challenges. Each folder corresponds to a day in December.
