@@ -52,7 +52,7 @@ Move into Cyber Security | 🔜
 
 | Day | Title | Link | Status |
 |----|------|------|------|
-Day 01 | Linux CLI - Shells Bells | [View](day-01/writeup.md) | ✅
+Day 01 | Linux CLI - Shells Bells | [View](Day 1 /Writeup)| ✅
 Day 02 | — | — | ⏳
 Day 03 | — | — | ⏳
 Day 04 | — | — | ⏳
