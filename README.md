@@ -58,7 +58,7 @@ Day 05 | — | — | ⏳
 
 ## 🚀 Next Steps After Advent
 
-- Network+ (N10-008)
+- Network+ (N10-009)
 - Hack The Box: Junior Cyber Security Path
 - Build Home Lab (pfSense + VMs + Pi-hole)
 - Security+ (SY0-701)
