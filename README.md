@@ -52,7 +52,7 @@ Move into Cyber Security | 🔜
 
 | Day | Title | Link | Status |
 |----|------|------|------|
-Day 01 | Linux CLI - Shells Bells | [View](Day 1 /Writeup)| ✅
+Day 01 | Linux CLI - Shells Bells | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%201%20/Writeup)| ✅
 Day 02 | — | — | ⏳
 Day 03 | — | — | ⏳
 Day 04 | — | — | ⏳
