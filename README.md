@@ -36,18 +36,6 @@ My goal:
 
 ---
 
-## ✅ Goals for This Challenge
-
-| Goal | Status |
-|------|------|
-Complete Advent of Cyber | ✅ In Progress
-Improve Linux skills | ✅
-Build portfolio | ✅
-Prepare for Network+ | 🔜
-Move into Cyber Security | 🔜
-
----
-
 ## 📂 Daily Write-Ups
 
 | Day | Title | Link | Status |
