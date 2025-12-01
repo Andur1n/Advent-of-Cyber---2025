@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
-
 <h1 align="center">
 🎄 TryHackMe – Advent of Cyber 2025
 </h1>
