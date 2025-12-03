@@ -42,7 +42,7 @@ My goal:
 |----|------|------|------|
 Day 01 | Linux CLI - Shells Bells | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%201%20/Writeup)| ✅
 Day 02 | Phishing - Merry Clickmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%202/Writeup)| ✅
-Day 03 | Splunk Basics - Did you SIEM? | — | ⏳
+Day 03 | Splunk Basics - Did you SIEM? | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%203/Writeup.md)| ✅
 Day 04 | AI in Security - old sAInt nick | — | ⏳
 Day 05 | IDOR - Santa’s Little IDOR | — | ⏳
 Day 06 | Malware Analysis - Egg-xecutable | — | ⏳
