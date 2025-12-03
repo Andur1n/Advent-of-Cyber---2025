@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>25 days of hands-on cybersecurity learning</b><br>
+  <b>24 days of hands-on cybersecurity learning</b><br>
   Documenting my journey into security, Linux, networking and ethical hacking.
 </p>
 
