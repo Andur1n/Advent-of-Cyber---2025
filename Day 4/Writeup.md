@@ -9,7 +9,7 @@
 ## Environment
 
 - Platform: TryHackMe
-- Tools: SolveIT (customer TryHackMe AI), Terminal.
+- Tools: SolveIT (custom TryHackMe AI), Terminal.
 
 
 ## Approach
