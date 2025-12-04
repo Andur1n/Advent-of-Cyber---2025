@@ -40,5 +40,3 @@ We've been taught about how AI can be used within the Cybersecurity space in ord
 ## Further Thoughts
 
 This room was definitely not my favourite. The AI was a bit slow to react and it was very much a "hands off" room without much interaction. It was very good to see what the capabilities are of AI within the Cybersecurity space.
-
-I am extremely new to SIEMs, and this was a great first experience with Splunk. The challenge took longer to complete due to unfamiliarity with the tool, the attacker mindset, and common attack patterns. However, it provided an excellent introduction to SIEM analysis and real-world investigation techniques.
