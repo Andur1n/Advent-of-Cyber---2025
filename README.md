@@ -44,7 +44,7 @@ Day 01 | Linux CLI - Shells Bells | [View](https://github.com/Andur1n/Advent-of-
 Day 02 | Phishing - Merry Clickmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%202/Writeup.md)| ✅
 Day 03 | Splunk Basics - Did you SIEM? | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%203/Writeup.md)| ✅
 Day 04 | AI in Security - old sAInt nick | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%204/Writeup.md)| ✅
-Day 05 | IDOR - Santa’s Little IDOR | — | ⏳
+Day 05 | IDOR - Santa’s Little IDOR | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%205/Writeup.md) | ✅
 Day 06 | Malware Analysis - Egg-xecutable | — | ⏳
 Day 07 | Network Discovery - Scan-ta Clause | — | ⏳
 
@@ -54,6 +54,8 @@ Day 07 | Network Discovery - Scan-ta Clause | — | ⏳
 
 - Linux / Bash
 - TryHackMe
+- AI (Various)
+- Splunk
 
 ---
 
