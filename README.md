@@ -46,7 +46,7 @@ Day 03 | Splunk Basics - Did you SIEM? | [View](https://github.com/Andur1n/Adven
 Day 04 | AI in Security - old sAInt nick | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%204/Writeup.md)| ✅
 Day 05 | IDOR - Santa’s Little IDOR | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%205/Writeup.md) | ✅
 Day 06 | Malware Analysis - Egg-xecutable | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%206/Writeup.md) | ✅
-Day 07 | Network Discovery - Scan-ta Clause | — | ⏳
+Day 07 | Network Discovery - Scan-ta Clause | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%207/Writeup.md) | ✅
 
 ---
 
@@ -59,6 +59,9 @@ Day 07 | Network Discovery - Scan-ta Clause | — | ⏳
 - Procomon
 - PeStudio
 - Regshot
+- Nmap
+- Netcat
+- MySQL
 
 ---
 
