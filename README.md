@@ -56,6 +56,9 @@ Day 07 | Network Discovery - Scan-ta Clause | — | ⏳
 - TryHackMe
 - AI (Various)
 - Splunk
+- Procomon
+- PeStudio
+- Regshot
 
 ---
 
