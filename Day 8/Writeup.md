@@ -10,7 +10,7 @@
 ## 🖥️ Environment
 
 - **Platform:** TryHackMe  
-- **Tools used:** AI (Customer
+- **Tools used:** AI (Custom)
 ---
 
 ## 🔍 Approach
