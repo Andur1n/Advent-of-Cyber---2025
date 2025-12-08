@@ -47,6 +47,7 @@ Day 04 | AI in Security - old sAInt nick | [View](https://github.com/Andur1n/Adv
 Day 05 | IDOR - Santa’s Little IDOR | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%205/Writeup.md) | ✅
 Day 06 | Malware Analysis - Egg-xecutable | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%206/Writeup.md) | ✅
 Day 07 | Network Discovery - Scan-ta Clause | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%207/Writeup.md) | ✅
+Day 08 | Prompt Injection - Sched-yule conflict | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%208/Writeup.md) | ✅
 
 ---
 
