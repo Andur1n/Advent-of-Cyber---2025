@@ -48,6 +48,7 @@ Day 05 | IDOR - Santa’s Little IDOR | [View](https://github.com/Andur1n/Advent
 Day 06 | Malware Analysis - Egg-xecutable | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%206/Writeup.md) | ✅
 Day 07 | Network Discovery - Scan-ta Clause | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%207/Writeup.md) | ✅
 Day 08 | Prompt Injection - Sched-yule conflict | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%208/Writeup.md) | ✅
+Day 09 | Passwords - A Cracking Christmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%209/Writeup.md) | ✅
 
 ---
 
@@ -63,6 +64,8 @@ Day 08 | Prompt Injection - Sched-yule conflict | [View](https://github.com/Andu
 - Nmap
 - Netcat
 - MySQL
+- John The Ripper
+- PDFCrack
 
 ---
 
