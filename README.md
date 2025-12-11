@@ -49,6 +49,8 @@ Day 06 | Malware Analysis - Egg-xecutable | [View](https://github.com/Andur1n/Ad
 Day 07 | Network Discovery - Scan-ta Clause | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%207/Writeup.md) | ✅
 Day 08 | Prompt Injection - Sched-yule conflict | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%208/Writeup.md) | ✅
 Day 09 | Passwords - A Cracking Christmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%209/Writeup.md) | ✅
+Day 10 |SOC Alert Triaging - Tinsel Triage | Room is currently bugged and under maintenance | ⚠️
+Day 11 | XSS - Merry XSSmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2011/Writeup.md) | ✅
 
 ---
 
