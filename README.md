@@ -52,6 +52,7 @@ Day 09 | Passwords - A Cracking Christmas | [View](https://github.com/Andur1n/Ad
 Day 10 |SOC Alert Triaging - Tinsel Triage | Room is currently bugged and under maintenance | ⚠️
 Day 11 | XSS - Merry XSSmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2011/Writeup.md) | ✅
 Day 12 | Phishing - Phishmas Greetings | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2012/Writeup.md) | ✅
+Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2013/Writeup.md) | ✅
 
 ---
 
