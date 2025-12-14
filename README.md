@@ -51,6 +51,7 @@ Day 08 | Prompt Injection - Sched-yule conflict | [View](https://github.com/Andu
 Day 09 | Passwords - A Cracking Christmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%209/Writeup.md) | ✅
 Day 10 |SOC Alert Triaging - Tinsel Triage | Room is currently bugged and under maintenance | ⚠️
 Day 11 | XSS - Merry XSSmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2011/Writeup.md) | ✅
+Day 12 | Phishing - Phishmas Greetings | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2012/Writeup.md) | ✅
 
 ---
 
