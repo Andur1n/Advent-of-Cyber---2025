@@ -70,6 +70,7 @@ Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-
 - MySQL
 - John The Ripper
 - PDFCrack
+- Yara
 
 ---
 
