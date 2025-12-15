@@ -53,6 +53,7 @@ Day 10 |SOC Alert Triaging - Tinsel Triage | Room is currently bugged and under 
 Day 11 | XSS - Merry XSSmas | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2011/Writeup.md) | ✅
 Day 12 | Phishing - Phishmas Greetings | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2012/Writeup.md) | ✅
 Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2013/Writeup.md) | ✅
+Day 14 | Containers - DoorDasher's Nightmare | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2014/Writeup.md) | ✅
 
 ---
 
@@ -60,6 +61,7 @@ Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-
 
 - Linux / Bash
 - TryHackMe
+- Firefox 🦊
 - AI (Various)
 - Splunk
 - Procomon
@@ -71,6 +73,7 @@ Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-
 - John The Ripper
 - PDFCrack
 - Yara
+- Docker 🐳
 
 ---
 
