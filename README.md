@@ -54,6 +54,7 @@ Day 11 | XSS - Merry XSSmas | [View](https://github.com/Andur1n/Advent-of-Cyber-
 Day 12 | Phishing - Phishmas Greetings | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2012/Writeup.md) | ✅
 Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2013/Writeup.md) | ✅
 Day 14 | Containers - DoorDasher's Nightmare | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2014/Writeup.md) | ✅
+Day 15 | Web Attack Forensics - Drone Alone | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2015/writeup.md) | ✅
 
 ---
 
@@ -76,19 +77,4 @@ Day 14 | Containers - DoorDasher's Nightmare | [View](https://github.com/Andur1n
 - Docker 🐳
 
 ---
-
-## 🚀 Next Steps After Advent
-
-- Network+ (N10-009)
-- Hack The Box: Junior Cyber Security Path
-- Build Home Lab (pfSense + VMs + Pi-hole)
-- Security+ (SY0-701)
-- Practical Blue Team labs
-
----
-
-## 📫 Connect (Coming Soon)
-
-LinkedIn – *to be added*  
-Portfolio – *in progress*
 
