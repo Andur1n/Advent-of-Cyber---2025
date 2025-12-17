@@ -55,6 +55,7 @@ Day 12 | Phishing - Phishmas Greetings | [View](https://github.com/Andur1n/Adven
 Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2013/Writeup.md) | ✅
 Day 14 | Containers - DoorDasher's Nightmare | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2014/Writeup.md) | ✅
 Day 15 | Web Attack Forensics - Drone Alone | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2015/writeup.md) | ✅
+Day 16 | Forensics - Registry Furensics | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2016/Writeup.md) | ✅
 
 ---
 
@@ -75,6 +76,7 @@ Day 15 | Web Attack Forensics - Drone Alone | [View](https://github.com/Andur1n/
 - PDFCrack
 - Yara
 - Docker 🐳
+- Windows Registry
 
 ---
 
