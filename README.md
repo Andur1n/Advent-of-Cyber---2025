@@ -56,6 +56,7 @@ Day 13 | YARA Rules - YARA mean one! | [View](https://github.com/Andur1n/Advent-
 Day 14 | Containers - DoorDasher's Nightmare | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2014/Writeup.md) | ✅
 Day 15 | Web Attack Forensics - Drone Alone | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2015/writeup.md) | ✅
 Day 16 | Forensics - Registry Furensics | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2016/Writeup.md) | ✅
+Day 17 | CyberChef - Hoperation Save McSkidy | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2017/Writeup.md) | ✅
 
 ---
 
@@ -77,6 +78,8 @@ Day 16 | Forensics - Registry Furensics | [View](https://github.com/Andur1n/Adve
 - Yara
 - Docker 🐳
 - Windows Registry
+- CyberChef 👨‍🍳
+- Crackstation
 
 ---
 
