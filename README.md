@@ -58,6 +58,7 @@ Day 15 | Web Attack Forensics - Drone Alone | [View](https://github.com/Andur1n/
 Day 16 | Forensics - Registry Furensics | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2016/Writeup.md) | ✅
 Day 17 | CyberChef - Hoperation Save McSkidy | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2017/Writeup.md) | ✅
 Day 18 | Obfuscation - The Egg Shell File | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2018/Writeup.md) | ✅
+Day 19 | ICS/Modbus - Claus for Concern | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2019/Writeup.md) | ✅
 
 ---
 
@@ -82,6 +83,7 @@ Day 18 | Obfuscation - The Egg Shell File | [View](https://github.com/Andur1n/Ad
 - CyberChef 👨‍🍳
 - Crackstation
 - Powershell
+- Python
 
 ---
 
