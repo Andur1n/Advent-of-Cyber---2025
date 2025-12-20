@@ -18,7 +18,7 @@
 
 ## 📌 About This Repository
 
-This repository contains my write-ups, tools, notes and screenshots from completing the **TryHackMe Advent of Cyber** challenge.
+This repository contains my write-ups, tools, notes and screenshots from completing the **TryHackMe Advent of Cyber 2025** challenge.
 
 Each day focuses on a different security concept, including:
 
@@ -57,6 +57,7 @@ Day 14 | Containers - DoorDasher's Nightmare | [View](https://github.com/Andur1n
 Day 15 | Web Attack Forensics - Drone Alone | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2015/writeup.md) | ✅
 Day 16 | Forensics - Registry Furensics | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2016/Writeup.md) | ✅
 Day 17 | CyberChef - Hoperation Save McSkidy | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2017/Writeup.md) | ✅
+Day 18 | Obfuscation - The Egg Shell File | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2018/Writeup.md) | ✅
 
 ---
 
@@ -80,6 +81,7 @@ Day 17 | CyberChef - Hoperation Save McSkidy | [View](https://github.com/Andur1n
 - Windows Registry
 - CyberChef 👨‍🍳
 - Crackstation
+- Powershell
 
 ---
 
