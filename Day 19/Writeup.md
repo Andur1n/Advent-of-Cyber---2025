@@ -8,7 +8,7 @@
 - How to identify compromised system configurations in industrial systems
 - Techniques for safely remediating compromised control systems
 - Understanding protection mechanisms and trap logic in ICS environments
-- 
+  
 ---
 
 ## 🖥️ Environment
@@ -25,9 +25,9 @@ We then learned further about the modbus protocol and how it interacts with micr
 
 The task for today was to restore a compromised factory.
 
-We first ran a recconnaissance python script first [recconnaissance](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2019/reconnaissance.py) which connected to the modbus controller and checked the values of the sensors.
+We first ran a [recconnaissance](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2019/reconnaissance.py) python script first which connected to the modbus controller and checked the values of the sensors.
 
-Once this was done we ran a remediation script [remediation](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2019/remediation.py) to set the sensor values correctly again and restore operations.
+Once this was done we ran a [remediation](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2019/remediation.py) script to set the sensor values correctly again and restore operations.
 
 This then revealed the flag of the task.
 
