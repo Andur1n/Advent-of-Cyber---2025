@@ -19,7 +19,7 @@
 
 First we learned about race conditions on how these work, what's causing it and how to exploit it.
 
-We then had to exploit this vulnerability for ourselves. We started by enabling 'Foxyproxy' and 'Burp Suite' in order to capture our 'HTTP' requests. We turned "Intercept" off to make sure that `Burp Suite` doesn't hold our `HTTP` requests.
+We then had to exploit this vulnerability for ourselves. We started by enabling `Foxyproxy` and `Burp Suite` in order to capture our `HTTP` requests. We turned "Intercept" off to make sure that `Burp Suite` doesn't hold our `HTTP` requests.
 
 To exploit the vulnerability we first created a legitimate request by ordering the "SleighToy Limited Edition" and pay for the product. This created a real `POST` request in `Burp Suite` that contained the details of our order.
 
