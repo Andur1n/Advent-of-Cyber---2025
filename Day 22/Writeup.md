@@ -34,7 +34,7 @@ We then initiated the file by running the below command which launched `RITA` an
 rita view rita_challenge
 ```
 
-In here we were able to scroll through the information and answer the required questions. We then had to built a custom search query. We did this by pressing the `?` which gave us further advise how to built this and we landed on the following query `dst:rabbithole.malhare.net beacon:>=70 sort:duration-desc`
+In here we were able to scroll through the information and answer the required questions. We then had to built a custom search query. We did this by pressing the `?` which gave us further advise how to built this and we landed on the following query: `dst:rabbithole.malhare.net beacon:>=70 sort:duration-desc`
 
 And that rounds up the task.
 
