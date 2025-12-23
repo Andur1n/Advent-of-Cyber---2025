@@ -25,15 +25,9 @@ Each day focuses on a different security concept, including:
 - Linux & Windows fundamentals
 - Networking basics
 - Web exploitation
-- OSINT
 - Blue team & SOC concepts
 - Exploitation fundamentals
-
-My goal:  
-✅ Build strong foundations  
-✅ Create a public portfolio  
-✅ Prepare for Network+ and Security+  
-
+- 
 ---
 
 ## 📂 Daily Write-Ups
@@ -59,6 +53,7 @@ Day 16 | Forensics - Registry Furensics | [View](https://github.com/Andur1n/Adve
 Day 17 | CyberChef - Hoperation Save McSkidy | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2017/Writeup.md) | ✅
 Day 18 | Obfuscation - The Egg Shell File | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2018/Writeup.md) | ✅
 Day 19 | ICS/Modbus - Claus for Concern | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2019/Writeup.md) | ✅
+Day 20 | Race Conditions - Toy to The World | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2020/Writeup.md) | ✅
 
 ---
 
@@ -84,6 +79,7 @@ Day 19 | ICS/Modbus - Claus for Concern | [View](https://github.com/Andur1n/Adve
 - Crackstation
 - Powershell
 - Python
+- Burp Suite
 
 ---
 
