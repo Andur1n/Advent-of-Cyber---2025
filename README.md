@@ -56,6 +56,7 @@ Day 19 | ICS/Modbus - Claus for Concern | [View](https://github.com/Andur1n/Adve
 Day 20 | Race Conditions - Toy to The World | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2020/Writeup.md) | ✅
 Day 21 | Malware Analysis - Malhare.exe | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2021/Writeup.md) | ✅
 Day 22 | C2 Detection - Command & Carol | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2022/Writeup.md) | ✅
+Day 23 | AWS Security - S3cret Santa | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2023/Writeup.md) | ✅
 
 ---
 
@@ -84,6 +85,7 @@ Day 22 | C2 Detection - Command & Carol | [View](https://github.com/Andur1n/Adve
 - Burp Suite
 - Zeek
 - RITA
+- AWS
 
 ---
 
