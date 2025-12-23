@@ -54,6 +54,7 @@ Day 17 | CyberChef - Hoperation Save McSkidy | [View](https://github.com/Andur1n
 Day 18 | Obfuscation - The Egg Shell File | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2018/Writeup.md) | ✅
 Day 19 | ICS/Modbus - Claus for Concern | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2019/Writeup.md) | ✅
 Day 20 | Race Conditions - Toy to The World | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2020/Writeup.md) | ✅
+Day 21 | Malware Analysis - Malhare.exe | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2021/Writeup.md) | ✅
 
 ---
 
