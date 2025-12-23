@@ -27,7 +27,7 @@ Each day focuses on a different security concept, including:
 - Web exploitation
 - Blue team & SOC concepts
 - Exploitation fundamentals
-- 
+  
 ---
 
 ## 📂 Daily Write-Ups
