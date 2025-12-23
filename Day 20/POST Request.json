@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: Werkzeug/3.0.6 Python/3.8.10
+Date: Tue, 23 Dec 2025 09:01:56 GMT
+Content-Type: application/json
+Content-Length: 322
+Vary: Cookie
+Set-Cookie: session=eyJjYXJ0Ijp7fSwidXNlciI6ImF0dGFja2VyIn0.aUpahA.o9ByFpKXrgCi2SPMv6ByZQrh2H4; HttpOnly; Path=/
+Connection: close
+
+{
+  "results": [
+    {
+      "order_id": "4c540aa7-d287-45c1-b737-e1f29acbd255",
+      "payment_method": "card",
+      "product_id": "sled-101",
+      "qty": 1,
+      "status": "confirmed",
+      "stock_after": 9,
+      "stock_before": 10,
+      "time": "2025-12-23T09:01:56.488491Z",
+      "user": "attacker"
+    }
+  ]
+}
