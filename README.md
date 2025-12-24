@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-blue">
+  <img src="https://img.shields.io/badge/status-Completed-brightgreen">
   <img src="https://img.shields.io/badge/Platform-TryHackMe-green">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red">
   <img src="https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-purple">
@@ -57,6 +57,7 @@ Day 20 | Race Conditions - Toy to The World | [View](https://github.com/Andur1n/
 Day 21 | Malware Analysis - Malhare.exe | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2021/Writeup.md) | ✅
 Day 22 | C2 Detection - Command & Carol | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2022/Writeup.md) | ✅
 Day 23 | AWS Security - S3cret Santa | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2023/Writeup.md) | ✅
+Day 24 | Exploitation with cURL - Hoperation Eggsploit | [View](https://github.com/Andur1n/Advent-of-Cyber---2025/blob/main/Day%2024/Writeup.md) | ✅
 
 ---
 
