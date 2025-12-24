@@ -54,7 +54,6 @@ For the last flag we need to make a request using the `TBFC` as an user-agent on
 
 ```
 curl -A "TBFC" http://10.49.155.137/agent.php
-
 ```
 
 ---
