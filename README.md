@@ -86,6 +86,7 @@ Day 23 | AWS Security - S3cret Santa | [View](https://github.com/Andur1n/Advent-
 - Zeek
 - RITA
 - AWS
+- Microsoft Sentinel
 
 ---
 
